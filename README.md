@@ -1,4 +1,4 @@
-# buymeacoffee
+#  :coffee: buymeacoffee
 BuyMeACoffee but on the blockchain.
 
 Dapp:
