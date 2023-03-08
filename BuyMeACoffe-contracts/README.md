@@ -1,13 +1,22 @@
-# Sample Hardhat Project
+#  :coffee: buymeacoffee
+BuyMeACoffee but on the blockchain.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Dapp:
+- https://www.buymeacoffee-blockchain.vercel.app
 
-Try running some of the following tasks:
+## Description
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Allow people to send a how many "coffee's" they want, each coffee cost 0,001ETH.
+Also the smartcontract allow leave a name and a message to attach in a memo with the date of approved transaction.
+
+## Used
+- Solidity
+- Hardhat
+- Next.js
+- Web3Modal
+- Ethers.js
+- dotEnv
+
+## Smartcontract
+
+This smartcontract allows to buy a "coffee" and create a memo embed to the coffee. This memo store the name of buyer, timestamp and a message.
