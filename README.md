@@ -2,7 +2,7 @@
 BuyMeACoffee but on the blockchain.
 
 Dapp:
-- https://www.buymeacoffee-blockchain.vercel.app
+- https://buymeacoffee-blockchain.vercel.app/
 
 ## Description
 
